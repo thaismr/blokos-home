@@ -25,32 +25,16 @@
 
     Your site is now running at `http://localhost:8000`!
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.com/tutorial/part-five/#introducing-graphiql)._
-
-    Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
-
-
-## 🧐 What's inside?
-
-    .
-    ├── node_modules
-    ├── src
-    ├── .gitignore
-    ├── .prettierrc
-    ├── gatsby-browser.js
-    ├── gatsby-config.js
-    ├── gatsby-node.js
-    ├── gatsby-ssr.js
-    ├── LICENSE
-    ├── package-lock.json
-    ├── package.json
-    └── README.md
-
-## 🎓 Learning Gatsby
-
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.com/).
+    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_.
 
 ## 💫 Deploy
+
+- **Deploy to Azure cloud**
+
+  - Add Azure extensions to Vscode.
+  - Create static app from Portal or extension.
+  - Push to Github for deployment.
+  - Wait for Github actions to finish build progress.
 
 - **Deploy source only to version tracking**
 
