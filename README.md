@@ -17,7 +17,11 @@
     Open new site’s directory on IDE and start it up.
 
     ```shell
+    // gatsby static without API
     gatsby develop
+    
+    // Gatsby + Serverless function API
+    swa start build --api api
     ```
 
 3.  **Open the source code and start editing!**
