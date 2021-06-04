@@ -58,6 +58,9 @@ typings/
 .cache/
 public
 
+# api
+api/local.settings.json
+
 # Mac files
 .DS_Store
 
